@@ -5,10 +5,13 @@ description = ""
 authors = ["Sherub Thakur <sherub.thakur@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 python-dateutil = "^2.8.1"
 beautifulsoup4 = "^4.9.3"
 requests = "^2.24.0"
+threader = "^0.1.1"
+TwitterAPI = "^2.6.1"
+tqdm = "^4.51.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
