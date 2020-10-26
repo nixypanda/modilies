@@ -72,4 +72,4 @@ if __name__ == "__main__":
 
     print("Saving Lies...")
     with open("the_lies.py", "w") as f:
-        f.write(str(dikt))
+        f.write(f"lies = {dikt}")
