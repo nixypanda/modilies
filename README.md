@@ -37,7 +37,7 @@ actor who undertakes this propaganda model, including Modi and Trump.
 4. Compete
 5. Turn off the tap
 
-This is an attempt to highlight these lies.
+This is an attempt to highlight the lying.
 
 # Resources
 - [The data source: ModiLies.in](https://www.modilies.in/)
